@@ -1,24 +1,45 @@
-# ¡Hola! Soy Camila Contreras (@cccontre1) 👋
+# Camila Contreras
+**Enfermera Clínica | Ciencia de Datos e Inteligencia Artificial en Salud**  
+Valparaíso, Chile
 
-### 🩺 De la Práctica Asistencial a la Ciencia de Datos e Inteligencia Artificial 💻
+Interlocutora entre la realidad asistencial y los equipos de tecnología. Cuento con más de una década de experiencia clínica en servicios de urgencia públicos y privados, trayectoria que hoy integro con herramientas de análisis de datos y machine learning para traducir necesidades operativas y diagnósticas en soluciones técnicas viables, intuitivas y seguras en el flujo de trabajo real.
 
-Cierro la brecha entre la realidad clínica y los equipos de TI. Mi trayectoria combina más de una década en servicios de urgencia con formación especializada en Machine Learning, análisis estadístico y programación en Python. Aseguro que los modelos predictivos y soluciones informáticas sean rigurosos, seguros y viables en el flujo de trabajo real.
+---
 
-#### 📍 Ubicación:
-- Región de Valparaíso, Chile 🇨🇱
+### Perfil y Enfoque
 
-#### 🎓 Formación y Especialización:
-- **Enfermera:** Pontificia Universidad Católica de Chile (Mención Adulto Crítico).
-- **Inteligencia Artificial Médica:** Diplomado en IA aplicada al diagnóstico médico (PUC).
-- **Stack Técnico:** Python (Scikit-Learn, Pandas, NumPy, Matplotlib), SQL, Git, GitHub, Docker.
+- **Criterio clínico y analítico:** Más de 10 años en atención de urgencia adulta e infantil (Clínica Las Condes, Hospital Carlos Van Buren) y gestión operativa en salud (Terad), aportando comprensión del criterio médico, la toma de decisiones bajo presión y la ética del dato en salud.
+- **Interlocución técnica:** Capacidad para cerrar la brecha entre la cabecera del paciente y el desarrollo algorítmico, facilitando la definición de requerimientos funcionales para equipos de TI.
+- **Modelamiento aplicado:** Desarrollo de scripts y pipelines de clasificación diagnóstica supervisada y preprocesamiento de datos clínicos.
 
-#### 🚀 Valor Diferencial:
-- Capacidad para traducir problemas operativos a requerimientos funcionales para equipos de desarrollo.
-- Priorización de métricas críticas (Sensibilidad / Recall) y mitigación de falsos negativos en salud.
-- Liderazgo y toma de decisiones basadas en evidencia en entornos de alta presión.
+---
 
-#### 📬 Canales de Contacto:
-- 💻 **GitHub:** [github.com/cccontre1](https://github.com/cccontre1)
-- 💼 **LinkedIn:** [linkedin.com/in/cccontre1](https://linkedin.com/in/cccontre1)
-- ✉️ **Email:** [cccontre1@gmail.com](mailto:cccontre1@gmail.com)
-- 📊 **Kaggle:** [kaggle.com/cccontre1](https://kaggle.com/cccontre1)
+### Áreas de Competencia
+
+- **Lenguajes y herramientas:** Python, Git, GitHub, entornos Jupyter / Colab.
+- **Machine Learning & Datos:** Regresión logística, árboles de decisión, Random Forest, SVM, PCA, Scikit-Learn, Pandas, NumPy, Matplotlib.
+- **Dominio de aplicación:** Inteligencia artificial aplicada al diagnóstico médico, business intelligence y optimización de procesos clínicos.
+
+---
+
+### Proyectos Recientes
+
+- **Modelos de Clasificación Diagnóstica:** Desarrollo de pipelines en Python para evaluación y optimización de modelos predictivos orientados a patologías médicas (evaluación de trade-offs entre sensibilidad/recall y especificidad).
+- **InternShifts:** Configuración de entorno y administración de control de versiones con Git/GitHub para la integración colaborativa en el despliegue de la aplicación.
+
+---
+
+### Formación
+
+- **Diplomado en Inteligencia Artificial Aplicada al Diagnóstico Médico** — Pontificia Universidad Católica de Chile
+- **Bootcamp Fundamentos de Ciencia de Datos** — Talento Digital para Chile, SENCE
+- **Especialización en Enfermería en Situación de Urgencia** — Universidad de los Andes
+- **Enfermera (Diploma Académico Adulto Crítico)** — Pontificia Universidad Católica de Chile
+
+---
+
+### Contacto
+
+- **LinkedIn:** [linkedin.com/in/cccontre1](https://www.linkedin.com)
+- **Correo:** cccontre1@gmail.com
+- **GitHub:** [github.com/cccontre1](https://github.com/cccontre1)
