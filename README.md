@@ -26,11 +26,13 @@ Interlocutora entre la realidad asistencial y los equipos de tecnología. Cuento
 
 - **Modelos de Clasificación Diagnóstica:** Desarrollo de pipelines en Python para evaluación y optimización de modelos predictivos orientados a patologías médicas (evaluación de trade-offs entre sensibilidad/recall y especificidad).
 - **InternShifts:** Configuración de entorno y administración de control de versiones con Git/GitHub para la integración colaborativa en el despliegue de la aplicación.
+- **Traductor:** Traductor necesidades en salud a requerimientos tecnológicos, KPI e IA.
 
 ---
 
 ### Formación
 
+- **Diplomado en Modelos Generativos de IA** — Cenia, en curso cohorte 2026-2027
 - **Diplomado en Inteligencia Artificial Aplicada al Diagnóstico Médico** — Pontificia Universidad Católica de Chile
 - **Bootcamp Fundamentos de Ciencia de Datos** — Talento Digital para Chile, SENCE
 - **Especialización en Enfermería en Situación de Urgencia** — Universidad de los Andes
@@ -40,6 +42,6 @@ Interlocutora entre la realidad asistencial y los equipos de tecnología. Cuento
 
 ### Contacto
 
-- **LinkedIn:** [linkedin.com/in/cccontre1](https://www.linkedin.com)
+- **LinkedIn:** [linkedin.com/in/cccontre1](https://www.linkedin.com/in/cccontre1)
 - **Correo:** cccontre1@gmail.com
 - **GitHub:** [github.com/cccontre1](https://github.com/cccontre1)
